@@ -1,0 +1,5 @@
+﻿Sensor_ID,X,Y,Z
+Sensor_1,0,0.1,0.005
+Sensor_2,0,0.6,0.005
+Sensor_3,0,0.1,-0.01
+Sensor_4,0,0.6,-0.01

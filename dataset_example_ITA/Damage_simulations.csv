@@ -1,0 +1,3 @@
+﻿Simulation_ID,Dmg_coord_x,Dmg_coord_y,Dmg_coord_z,Dmg_size,Dmg_orient_x,Dmg_orient_y,Dmg_orient_z,Dmg_type
+1,0,0.35,0,0,0,0,0,delamination
+2,0,0.35,0,0.15,0,0,0,delamination
